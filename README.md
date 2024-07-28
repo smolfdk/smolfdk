@@ -1,9 +1,1 @@
-<h1 align="center">Profile Views</h1>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/smolfdk/count.svg?"  />
-</div>
-
-###
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,lua)](https://skillicons.dev)
